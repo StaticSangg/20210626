@@ -8,9 +8,9 @@ return name === "react" && <div class="App">Hello {name} </div>;
 
 #
 https://nodejs.org/ko/ -> 안정적 설치 <br>
-yarn 설치 
+yarn 설치 <br>
   -> npm install --global yarn
-yarn 설치 확인 
+yarn 설치 확인 <br> 
   ->yarn --version
 
 react 설치
