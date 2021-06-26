@@ -2,7 +2,7 @@
 React, nodejs, yarn
 #
 간단한 조건문 렌더링
-만약 name 변수가 "react" 일시 뒤에 내용 표시
+만약 name 변수가 "react" 일시 뒤에 내용 표시 <br>
 return name === "react" && <div class="App">Hello {name} </div>;
 #
 
