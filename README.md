@@ -1,5 +1,5 @@
 # 2021_06_26
-React, nodejs, yarn
+React, nodejs, yarn 설
 #
 간단한 조건문 렌더링
 만약 name 변수가 "react" 일시 뒤에 내용 표시 <br>
